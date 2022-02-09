@@ -5,9 +5,9 @@
 
 ## Authors
 
-* Namit Prakash Dadlani(namit@dal.ca)
-* Deeksha Sareen(dk930654@dal.ca)
-* Aditya Arora(ad649756@dal.ca)
+* [Namit Prakash Dadlani](namit@dal.ca)
+* [Deeksha Sareen] (dk930654@dal.ca)
+* [Aditya Arora] (ad649756@dal.ca)
 
 ## About the project
 
@@ -24,6 +24,6 @@
 
 ## Built With
 
-* [React](https://www.python.org/) - The programming logic is developed in Python.
+* [Python](https://www.python.org/) - The programming logic is developed in Python.
 
 
