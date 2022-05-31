@@ -6,8 +6,8 @@
 ## Authors
 
 * [Namit Prakash Dadlani](namit@dal.ca)
-* [Deeksha Sareen] (dk930654@dal.ca)
-* [Aditya Arora] (ad649756@dal.ca)
+* [Deeksha Sareen](dk930654@dal.ca)
+* [Aditya Arora](ad649756@dal.ca)
 
 ## About the project
 
